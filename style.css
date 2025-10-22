@@ -122,6 +122,34 @@ body{
     margin: -90px 100px 100px 100px;
 }
 
+.fourth-section{
+    background-color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.panel{
+    background-color: #3882f6;
+    color: #e5e7eb;
+    margin: 70px;
+    padding: 20px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.panel-text-big{
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.second-button{
+    outline: 2px solid white;
+
+}
+
 button{
     background-color: #3882f6;
     color: #f9faf8;
