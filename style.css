@@ -99,6 +99,29 @@ body{
     width: 200px;
 }
 
+.third-section{
+    background-color: #e5e7eb;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.quote{
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1f2937;
+    margin: 100px;
+}
+
+.sign{
+    font-weight: 700;
+    font-size: 24px;
+    text-align: end;
+    margin: -90px 100px 100px 100px;
+}
+
 button{
     background-color: #3882f6;
     color: #f9faf8;
